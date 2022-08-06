@@ -12,7 +12,7 @@
 Features :
 - Advanced React Best Practices such as folder & file structure, hooks and refs
 - Created a User Interface using Material UI
-- Working with Google Maps API
+- Working with Coinsranking Api
 - Fetching data from unlimited sources using RapidAPI
 
 [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
