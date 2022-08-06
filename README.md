@@ -1,10 +1,22 @@
-# Cryptoverse - Explore the World of Cryptocurrency
+# Crypto-Geek4
 
-![Cryptoverse](https://i.ibb.co/8gh5Jc8/image.png)
+![Crypto-Geek4](https://i.ibb.co/8gh5Jc8/image.png)
 
-## Introduction
-This is a code repository for the corresponding video tutorial. 
+## Introduction and Features
+- Built and Deployed an advanced Crypto-informative Application using information from Rapid Api's Api (Coinranking). 
+- With Top Crypto information and status, 
+- With Top news about Crypto, 
+- Expandable windows, 
+- The best junction for all the crypto geeks.
 
-In this video, we will create a cryptocurrency app. We're going to use React and multiple APIs powered by https://rapidapi.com.
+Features :
+- Advanced React Best Practices such as folder & file structure, hooks and refs
+- Created a User Interface using Material UI
+- Working with Google Maps API
+- Fetching data from unlimited sources using RapidAPI
 
-By the end of this video, you will become the master of working with APIs.
+[RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
+[CoinRanking Api](https://rapidapi.com/Coinranking/api/coinranking1/)
+
+Setup: run ```npm i && npm start``` to start the development server
+#
