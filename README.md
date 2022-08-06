@@ -1,6 +1,6 @@
 # Crypto-Geek4
 
-![Crypto-Geek4](https://i.ibb.co/8gh5Jc8/image.png)
+![Crypto-Geek4](crypto.png)
 
 ## Introduction and Features
 - Built and Deployed an advanced Crypto-informative Application using information from Rapid Api's Api (Coinranking). 
