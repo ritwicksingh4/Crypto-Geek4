@@ -9,6 +9,9 @@
 - Expandable windows, 
 - The best junction for all the crypto geeks.
 
+## Deployed Link
+https://crypto-geek4.netlify.app/
+
 Features :
 - Advanced React Best Practices such as folder & file structure, hooks and refs
 - Created a User Interface using Material UI
